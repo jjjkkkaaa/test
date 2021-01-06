@@ -1,6 +1,3 @@
 this is a simple test
-<<<<<<< HEAD
-i have a dream!
-=======
+i have a dream
 just for fun!
->>>>>>> 4b51c0eed8393fc3c343c8fa4cccc0f1752f82ea
